@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Source
 
 The default theme for [Ghost](http://github.com/tryghost/ghost/). This is the latest development version of Source! If you're just looking to download the latest release, head over to the [releases](https://github.com/TryGhost/Source/releases) page.
@@ -63,3 +64,7 @@ You can add your own SVG icons in the same manner.
 # Copyright & License
 
 Copyright (c) 2013-2023 Ghost Foundation - Released under the [MIT license](LICENSE).
+=======
+# kushoto-source
+a modified Source theme for ghostCMS
+>>>>>>> 37cda5962a2c4adab74d39a8b07dcb43054b248e
